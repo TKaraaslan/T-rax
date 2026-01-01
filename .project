@@ -14,11 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>src/src1</name>
-			<type>2</type>
-			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/Masa%C3%BCst%C3%BC/stickers/ExpenseTracker/src/src1</locationURI>
-		</link>
-	</linkedResources>
 </projectDescription>

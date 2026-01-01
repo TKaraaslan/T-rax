@@ -7,7 +7,7 @@ import java.sql.Statement;
 
 public class SqlConnection {
     private final String USER_NAME = "root";
-    private final String PASSWORD = "YOUR_PASSWORD";
+    private final String PASSWORD = "karaaslan1905@@";
     
     private final String SERVER_URL = "jdbc:mysql://localhost:3306/";
     private final String DB_NAME = "expense_tracker";
