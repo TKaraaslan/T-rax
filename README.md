@@ -29,4 +29,4 @@ Eğer şifreniz doğru olduğu halde bağlantı hatası alıyorsanız, MySQL ter
 ```sql
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'your_password';
 FLUSH PRIVILEGES;
-Not: Yukarıdaki your_password kısmını kendi MySQL şifrenizle değiştirin.
+> **Not:** Yukarıdaki `your_password` yerine kendi MySQL root şifrenizi yazın. Eğer şifre yoksa `""` (boş tırnak) bırakın.
